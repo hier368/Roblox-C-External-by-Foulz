@@ -2,7 +2,7 @@
 
 // imtheo.lol/Offsets/Offsets.hpp
 // though use chatgpt to just replace offsets or something so u don't gotta do it manually, atleast its what I do
-// oh amd i dumped NextGenReplicatorEnabledWrite4(for desync) and added it myself bc theo don't dumb that, sooo you gotta dump it yourself or find it
+// oh amd i dumped NextGenReplicatorEnabledWrite4(for desync) and added it myself bc theo don't do that, sooo you gotta dump it yourself or find it
 namespace Offsets
 {
     public static class Info
